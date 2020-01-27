@@ -25,9 +25,6 @@ def directors_totals(nds)
     total = 0 
     row_index +=1 
   end  
-  
-  
-  
-  # Be sure to return the result at the end!
+ 
   result 
 end
